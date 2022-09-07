@@ -1,4 +1,4 @@
-    # 使用说明
+# 使用说明
 
  [![](https://img.shields.io/static/v1?label=绊缘&message=知乎&color=orange)](https://www.zhihu.com/people/dmfinder)[![](https://img.shields.io/static/v1?label=DGME&message=github&color=lightblue)](https://github.com/DGMEFORONE)
 
@@ -20,7 +20,7 @@ API来自b站up主[**Stardust_减**](https://space.bilibili.com/163056936)，具
 
 
 
-然后只需点击确认，就会自动生成*** xxx.mp3***文件，并自动播放
+然后只需点击确认，就会自动生成***xxx.mp3***文件，并自动播放
 
 
 
